@@ -1,6 +1,6 @@
 # Retail Sales & Profitability Analysis (Nigeria)
 
-This project analyzes synthetic retail transaction data (2020–2024) for a Nigerian retail chain to uncover revenue drivers, discount impacts, and profitability patterns.
+This project analyzes sales performance, customer behavior, discount impact, and COVID-19 disruptions across Nigerian regions in order to support strategic retail decisions.
 
 Tools: Python (pandas, matplotlib), Power BI
 
