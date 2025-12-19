@@ -17,6 +17,7 @@ The following questions guided the project.
 ___
 
 ## Data Description
+Source: Dataset was synthetically generated to simulate a Nigerian retail sales behaviour including COVID-19 disruptions
 Granularity: Transaction-level data
 Time: 2020 - 2024
 Key Columns:  Customer_ID, Order_ID, Order_Date, State, Category,
@@ -39,22 +40,22 @@ ___
 ## Exploratory Data Analysis (Python)
 EDA was conducted to identify trends and patterns.
 * Monthly Sales Trend
-![Chart_1](../figures/1.png)
+![Chart_1](/figures/1.png)
 
 * Sales by Product Category
-![Chart_2](../figures/2.png)
+![Chart_2](/figures/2.png)
 
 * Discount vs Profit
-![Chart_3](../figures/3.png)
+![Chart_3](/figures/3.png)
 
 * Customer Segment Distribution
-![Chart_4](../figures/4.png)
+![Chart_4](/figures/4.png)
 
 * Average Profit by Customer Segment
-![Chart_5](../figures/5.png)
+![Chart_5](/figures/5.png)
 
 * COVID-19 Impact Analysis
-![Chart_6](../figures/6.png)
+![Chart_6](/figures/6.png)
 ___
 
 ## Dashnoard Design (Power BI)
